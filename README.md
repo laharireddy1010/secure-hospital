@@ -291,7 +291,7 @@ No AI/automation service, cloud storage, analytics, telemetry, SIEM, or hospital
 
 ### Prerequisites
 
-- Node.js 18 or newer (Node.js 20 LTS is recommended).
+- Node.js 20 or newer (Node.js 20 LTS or newer is recommended; the installed Tailwind CSS toolchain requires Node.js 20+).
 - npm, normally included with Node.js.
 - A modern browser with Web Crypto API support.
 - Internet access to download npm packages; online access is also needed for the hosted fonts.
